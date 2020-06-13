@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{135:function(a){a.exports=JSON.parse('{"allTagsPath":"/docs/easy-chord-chart-maker/blog/tags","slug":"hola","name":"hola","count":1,"permalink":"/docs/easy-chord-chart-maker/blog/tags/hola"}')}}]);
